@@ -1,2 +1,5 @@
 # microbits
-Voorbeeld python code voor Microbits opdrachten
+
+Voorbeeld python code voor Microbits opdrachten.
+
+
