@@ -10,6 +10,6 @@ Voorbeeld python code voor Microbits opdrachten.
 - gebruik een underscore in namen die uit twee woorden bestaan. Dus bereken_aantal in plaats van berekenaantal
 
 # Voorbeelden
-- ![afbeelding](https://github.com/johantenhouten/c-teach/blob/main/media/programeren.png)
+- ![afbeelding](https://github.com/johantenhouten/co-teach/blob/main/media/kattenluik.jpg)
 
 - 
