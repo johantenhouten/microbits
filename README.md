@@ -9,7 +9,11 @@ Voorbeeld python code voor Microbits opdrachten.
 - definieer je functies met logische namen
 - gebruik een underscore in namen die uit twee woorden bestaan. Dus bereken_aantal in plaats van berekenaantal
 
-# Voorbeelden
-- ![afbeelding](https://github.com/johantenhouten/co-teach/blob/main/media/kattenluik.jpg)
+# Voorbeelden 
+hier onder een aantal uitwerkingen van de projcten.
+- [Robot opstelling]()
+- [kattenluik met magneet](https://github.com/johantenhouten/co-teach/blob/main/media/kattenluik.jpg)
+- [micorbit-petje]() 
+- [microbit stappenteller houder]()
+- [microbit horloge]()
 
-- 
