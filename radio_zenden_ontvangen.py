@@ -12,9 +12,9 @@
 #
 # Zender en Ontvanger meten dezelfde kanaal gebruiken.
 # Kanaal is een getal tussen 1 en 255. 
-# Zet radio kanaal op 13. 
+# Zet radio kanaal op 1. 
 #
-radio.set_group(13)
+radio.set_group(1)
 
 
 #
