@@ -12,7 +12,7 @@ Voorbeeld python code voor Microbits opdrachten.
 # Voorbeelden 
 hier onder een aantal uitwerkingen van de projcten.
 - [Robot opstelling]()
-- <img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/johantenhouten/co-teach/blob/main/media/kattenluik.jpg)" width=50% height=50%>
+- <img src="https://github.com/johantenhouten/co-teach/blob/main/media/kattenluik.jpg" width=50% height=50%>
 - [micorbit-petje]() 
 - [microbit stappenteller houder]()
 - [microbit horloge]()
