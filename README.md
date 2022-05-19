@@ -11,8 +11,9 @@ Voorbeeld python code voor Microbits opdrachten.
 
 # Voorbeelden 
 hier onder een aantal uitwerkingen van de projcten.
-- <img src="https://github.com/johantenhouten/co-teach/blob/main/media/robotarm.jpg" width=50% height=50%>
-- <img src="https://github.com/johantenhouten/co-teach/blob/main/media/kattenluik.jpg" width=50% height=50%>
-- <img src="https://github.com/johantenhouten/co-teach/blob/main/media/stappentellen-1.jpg" width=50% height=50%>
-- <img src="https://github.com/johantenhouten/co-teach/blob/main/media/stappentellen-2.jpg" width=50% height=50%>
+- <img src="https://github.com/johantenhouten/microbits/blob/main/media/robotarm.jpg" width=50% height=50%>
+- <img src="https://github.com/johantenhouten/microbits/blob/main/media/kattenluik.jpg" width=50% height=50%>
+- <img src="https://github.com/johantenhouten/microbits/blob/main/media/stappentellen-1.jpg" width=50% height=50%>
+- <img src="https://github.com/johantenhouten/microbits/blob/main/media/stappentellen-2.jpg" width=50% height=50%>
 
+?raw=true
