@@ -26,7 +26,12 @@ def versleutel(bericht):
         # met chr() zet je een coe weer om in een letter
         # ord(65) geeft "A"
         letter_code = ord(letter)
-        letter_code = letter_code + geheim
+        
+        #
+        # doe iets met de code
+        #
+        
+        
         letter = chr(letter_code)
         versleuteld_bericht = versleuteld_bericht + letter
 
@@ -35,5 +40,4 @@ def versleutel(bericht):
 
 while True:
     display.scroll(versleutel(boodschap))
-    display.show(Image.HEART)
     sleep(2000)
